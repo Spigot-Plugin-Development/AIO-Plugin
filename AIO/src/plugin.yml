@@ -1,0 +1,8 @@
+author: DaniFoldi
+name: All-In-One_Minecraft_Plugin
+description: This is a plugin that -in some future update- will replace most of the other plugins out there.
+version: 1.0
+main: aio.aio
+commands:
+    kickall:
+    kick:
