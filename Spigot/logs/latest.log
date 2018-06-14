@@ -62,3 +62,4 @@
 [19:57:11] [Server thread/INFO]: DaniFoldi issued server command: /fly
 [20:03:44] [Server thread/INFO]: DaniFoldi lost connection: Internal Exception: java.io.IOException: Connection reset by peer
 [20:03:44] [Server thread/INFO]: DaniFoldihas joined the game. Welcome!
+[20:45:47] [Thread-2/INFO]: Stopping server
